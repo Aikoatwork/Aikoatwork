@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**Aikoatwork/Aikoatwork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an undergraduate student majoring in **Information Systems** with a deep passion for learning and exploring the world of **technology**. I enjoy delving into various aspects of tech, from software development to system architecture, and continuously improving my skills.
 
-Here are some ideas to get you started:
+### 🌱 Currently Learning:
+- Web Development (HTML, CSS, JavaScript, and modern frameworks)
+- Databases and Data Management
+- System Analysis and Design
+- Emerging technologies like AI and IoT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 Tech Interests:
+- Software Development
+- Cloud Computing
+- Data Science
+- Artificial Intelligence
+  
+Feel free to explore my repositories and connect with me! I'm always open to collaboration and learning from others.
